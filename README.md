@@ -2,5 +2,5 @@
 
 Progetto per il corso di Basi di Dati.
 
-Leggere la documentazione tecnica per avere più dettagli.
+Leggere i file sotto la cartella "Documentazione tecnica" per avere più dettagli.
 
